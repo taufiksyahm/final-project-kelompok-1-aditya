@@ -13,7 +13,8 @@ Problem: regression
 
 Final Model: Random Forest Regressor
 
-Link Repositori: https://github.com/taufiksyahm/final-project-kelompok-1-aditya
-                 https://github.com/EvyliaYanuar/final-project-kelompok-01-adit
+Link Repositori:
+- https://github.com/taufiksyahm/final-project-kelompok-1-aditya
+- https://github.com/EvyliaYanuar/final-project-kelompok-01-adit
 
 Link PPT: https://docs.google.com/presentation/d/1nMUPJzMm-kxTYNazvkpZPUteqdvtG3zX/edit?usp=sharing&ouid=105806590256268694806&rtpof=true&sd=true
